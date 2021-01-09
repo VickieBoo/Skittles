@@ -1,5 +1,5 @@
-namespace SkittlesPower.Utilities
-{
+// ReSharper disable CheckNamespace
+namespace SkittlesPower {
     public class ColorGroup {
         
     }

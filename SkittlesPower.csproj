@@ -35,6 +35,7 @@
         <Reference Include="System" />
         <Reference Include="System.Core" />
         <Reference Include="System.Data" />
+        <Reference Include="System.Drawing" />
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
@@ -45,6 +46,7 @@
         <Compile Include="Tolerances.cs" />
         <Compile Include="Utilities\ColorGroup.cs" />
         <Compile Include="Utilities\Colors.cs" />
+        <Compile Include="Utilities\GetImage.cs" />
     </ItemGroup>
     <ItemGroup>
       <Content Include="README.md" />
