@@ -1,10 +1,10 @@
 // ReSharper disable CheckNamespace
 
 using System;
-using System.Collections.Generic;
-using System.Drawing;
 using System.Linq;
+using System.Drawing;
 using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace SkittlesPower {
     public partial class Skittles {

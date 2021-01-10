@@ -1,6 +1,7 @@
-using System.Net.Http;
 // ReSharper disable CheckNamespace
 // ReSharper disable InconsistentNaming V~V
+
+using System.Net.Http;
 
 namespace SkittlesPower {
     public static class HTTP {

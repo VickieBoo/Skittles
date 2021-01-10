@@ -1,6 +1,5 @@
 // ReSharper disable CheckNamespace
 
-using System.Collections.Generic;
 using System.Drawing;
 
 namespace SkittlesPower {

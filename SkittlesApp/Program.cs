@@ -1,9 +1,8 @@
 ﻿
 using System;
-using System.Drawing;
 using System.IO;
-using System.Threading.Tasks;
 using SkittlesPower;
+using System.Threading.Tasks;
 
 namespace SkittlesApp {
     internal class Program {
